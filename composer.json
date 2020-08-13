@@ -40,7 +40,7 @@
 	"predis/predis": "1.1.1",
 	"humanmade/s3-uploads": "2.0.0-beta3",
 	"wpackagist-plugin/debug-bar": "0.9",
-	"wpackagist-plugin/backwpup": "3.7.1"
+	"wpackagist-plugin/really-simple-ssl": "3.3.4"
   },
   "require-dev": {
 	"heroku/heroku-buildpack-php": "*",
@@ -64,10 +64,6 @@
 	  ],
 	  "web/app/themes/{$name}/": [
 		"type:wordpress-theme"
-	  ],
-	  "web/app/plugins/{$name}/": [
-		" type：wordpress-plugin ",
-		"wpackagist-plugin / backwpup"
 	  ]
 	},
 	"dropin-paths": {
