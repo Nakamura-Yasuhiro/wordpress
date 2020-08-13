@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f66fdc4ba93c8400c78dd28d50986457",
+    "content-hash": "13c0bd4bbe2b08af247d1d16342dcdf5",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3768,6 +3768,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/debug-bar/"
+        },
+        {
+            "name": "wpackagist-plugin/google-sitemap-generator",
+            "version": "4.1.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/google-sitemap-generator/",
+                "reference": "tags/4.1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/google-sitemap-generator.4.1.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/google-sitemap-generator/"
         },
         {
             "name": "wpackagist-plugin/nginx-helper",
