@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b8f43a4f6cf321ab62032577e1e15989",
+    "content-hash": "41bab77ae4de3f38a52e83ef25edfb36",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3912,6 +3912,24 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/customify/"
+        },
+        {
+            "name": "wpackagist-theme/tortuga",
+            "version": "1.9",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/tortuga/",
+                "reference": "1.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/tortuga.1.9.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/tortuga/"
         }
     ],
     "packages-dev": [
