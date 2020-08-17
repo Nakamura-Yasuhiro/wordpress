@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb63fa9d5582d3dec6d4e7cea96799ef",
+    "content-hash": "472ebcb4a3932400dde96f265b153cd7",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -913,12 +913,12 @@
             "version": "v1.1.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/predishq/predis.git",
+                "url": "https://github.com/predis/predis.git",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/predishq/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
+                "url": "https://api.github.com/repos/predis/predis/zipball/f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1",
                 "shasum": ""
             },
@@ -3860,22 +3860,22 @@
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
         },
         {
-            "name": "wpackagist-plugin/wordfence",
-            "version": "6.3.22",
+            "name": "wpackagist-plugin/wp-file-manager",
+            "version": "6.5",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wordfence/",
-                "reference": "tags/6.3.22"
+                "url": "https://plugins.svn.wordpress.org/wp-file-manager/",
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordfence.6.3.22.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-file-manager.zip?timestamp=1592457597"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wordfence/"
+            "homepage": "https://wordpress.org/plugins/wp-file-manager/"
         },
         {
             "name": "wpackagist-theme/customify",
