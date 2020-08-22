@@ -43,6 +43,7 @@
 	"wpackagist-plugin/google-sitemap-generator": "4.1.1",
 	"wpackagist-plugin/wp-file-manager": "6.5",
 	"wpackagist-plugin/jetpack": "8.8.1",
+	"wpackagist-plugin/tinymce-advanced": "5.5.0",
 	"wpackagist-theme/customify": "0.3.4",
 	"wpackagist-theme/tortuga": "1.9"
   },
@@ -71,7 +72,9 @@
 		"wpackagist-plugin/really-simple-ssl",
 		"wpackagist-plugin/wp-file-manager",
 		"wpackagist-plugin/jetpack",
-		"wpackagist-plugin/google-sitemap-generator"
+		"wpackagist-plugin/google-sitemap-generator",
+		"wpackagist-plugin/tinymce-advanced"
+
 	]
 	},
 	"dropin-paths": {
